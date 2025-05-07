@@ -1,3 +1,6 @@
+// settings.json
 {
-  "recommendations": ["Vue.volar"]
+  // Mengatur penggunaan Prettier sebagai formatter default
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
 }
