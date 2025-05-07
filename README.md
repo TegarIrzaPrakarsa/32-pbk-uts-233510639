@@ -1,6 +1,24 @@
-# Vue 3 + Vite
+# 📋 Aplikasi Daftar Kegiatan Harian
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Gambar ini menampilkan antarmuka utama dari aplikasi web yang dibuat menggunakan **VueJS dan ViteJS**.  
+Aplikasi ini memungkinkan pengguna untuk:
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-"# 32-pbk-uts-233510639" 
+- ✅ Menambahkan kegiatan harian melalui input teks dan tombol **Tambah**
+- 📋 Menampilkan semua kegiatan yang telah ditambahkan
+- 🔍 Menyaring tampilan hanya untuk kegiatan yang **belum selesai**, menggunakan checkbox filter
+
+Tampilan aplikasi dirancang dengan antarmuka yang sederhana, bersih, dan nyaman dilihat untuk memudahkan pengguna dalam mengelola aktivitas hariannya.
+
+---
+
+## 🚀 Teknologi yang Digunakan
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- CSS (Custom Styling)
+
+---
+
+## 📁 Struktur Folder Utama
+- `src/` – Kode sumber VueJS
+- `public/` – File statis
+- `index.html` – Halaman utama aplikasi
